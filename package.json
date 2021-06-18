@@ -1,0 +1,15 @@
+{
+  "name": "revit",
+  "version": "1.0.0",
+  "description": "Revit is an online review platform.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Anurag Panwar, Akash Singh, Akash Dixit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
